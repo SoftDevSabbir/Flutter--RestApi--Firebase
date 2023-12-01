@@ -1,4 +1,4 @@
-# crud_app
+# Task Manager App
 
 A new Flutter project.
 
